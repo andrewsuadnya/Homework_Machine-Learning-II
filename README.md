@@ -19,7 +19,7 @@ Predicted Advertising Costs:
 
 Model Evaluation:
 - RMSE: 14.367119905549034
-- R² Score: [your R² value]
+- R² Score: 0.3978668208721431
 
 ## Conclusion
 The model provides a reasonable prediction of advertising costs based on sales. Further improvements could be made by incorporating additional features or using more complex models.
