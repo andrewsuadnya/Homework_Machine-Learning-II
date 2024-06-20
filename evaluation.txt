@@ -1,0 +1,7 @@
+Model Evaluation:
+RMSE: 14.367119905549034
+R² Score: 0.3978668208721431
+
+Interpretation:
+- RMSE: The average prediction error in the same units as the target variable (Advertising cost).
+- R² Score: Represents the proportion of the variance in the dependent variable that is predictable from the independent variable(s). An R² score close to 1 indicates a good fit.

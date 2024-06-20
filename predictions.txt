@@ -1,0 +1,4 @@
+Predicted Advertising Costs:
+For 50 sales: $77.83 million
+For 100 sales: $173.58 million
+For 150 sales: $269.32 million
