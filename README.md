@@ -18,7 +18,7 @@ Data Sales.txt, which has 2 columns: Sales and Advertising (million $) https://w
 
 
 ## Introduction
-This project aims to predict the advertising cost required to achieve a certain level of sales using simple linear regression.
+This homework aims to predict the advertising cost required to achieve a certain level of sales using simple linear regression.
 
 ## Dataset
 The dataset contains two columns:
