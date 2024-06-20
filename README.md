@@ -18,7 +18,7 @@ Predicted Advertising Costs:
 - For 150 sales: $269.32 million
 
 Model Evaluation:
-- RMSE: [your RMSE value]
+- RMSE: 14.367119905549034
 - R² Score: [your R² value]
 
 ## Conclusion
