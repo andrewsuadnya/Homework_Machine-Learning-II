@@ -1,5 +1,22 @@
 # Predicting Advertising Costs
 
+An advertising company has a client who wants to predict the Advertising cost they need to spend based on target sales. The data used to predict this is as follows:
+Data Sales.txt, which has 2 columns: Sales and Advertising (million $) https://www.econometrics.com/intro/sales.htm
+
+1. Download the data from https://www.econometrics.com/intro/SALES.txt
+2. Save the data locally or on Google Colab
+3. Perform predictions using simple regression
+4. The client wants to know the Advertising cost required if:
+   a. 50 sales
+   b. 100 sales
+   c. 150 sales
+5. Calculate the predicted advertising cost for each of these sales
+6. Evaluate the predictions using RMSE and R² score
+7. Interpret the results
+8. Upload the results, code, and screenshots to a GitHub repository
+9. Don't forget to provide a README about the repository
+
+
 ## Introduction
 This project aims to predict the advertising cost required to achieve a certain level of sales using simple linear regression.
 
